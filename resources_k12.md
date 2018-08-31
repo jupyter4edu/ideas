@@ -17,5 +17,9 @@
 | [ESRI Education Q&A 2017 GeoNet community](https://community.esri.com/community/education/blog/2017/06/27/esri-user-conference-education-qas) | Variety of resources |
 | [Deep Learning in the Classroom](https://dl.acm.org/citation.cfm?doid=3159450.3162370) | SIGCSE 18; Blank, Meeden, Marshall |
 | [A Hybrid Approach for using Programming Exercises in Introductory Physics](https://arxiv.org/pdf/1806.09041.pdf) Orban, Teeling-Smith, Smith, Porter | p5.js; 9-12; browser; can it be replicated with Jupyter? footnote |
+| [Processing.js in IPython Notebooks](https://jarrodmcclean.com/processing-js-in-an-ipython-notebook/) | Jarrod McClean; Javascript |
+| [High school - mailing list](https://groups.google.com/forum/#!topic/jupyter-education/5C3ECsKdlWc) | Science research methods; Carl Savage,
+Ballenas Secondary School |
+| [Interactive Classrooms with Jupyter and Python](https://www.jstor.org/stable/10.5951/mathteacher.111.4.0304?seq=1#page_scan_tab_contents) Jacob Frias Koehler, Soomi Kim | Math; Binder |
 
 *------ Stop k12 jupyter 8 -----*
