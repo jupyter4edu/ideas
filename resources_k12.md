@@ -1,6 +1,7 @@
 # Gallery of Jupyter in K-12 Education Resources
 
 *-------- DRAFT ----------*
+
 | Site                                    | Description |
 |-----------------------------------------|------------|
 | [Adam LaMee website](https://adamlamee.github.io/coding.html) | Coding in K12; Florida Public Schools; Physics; [Example repo](https://github.com/adamlamee/CODINGinK12-notebooksG); UCF Phystec |
