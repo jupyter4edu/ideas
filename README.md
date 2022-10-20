@@ -6,7 +6,7 @@ A repo to hold ideas about education curriculum, resources, and pedagogy
 
 - [Gallery of Interesting K-12 Resources](resources_k12.md)
 
-- [Third-party Resources for Teaching with Jupyter](third_party.rst)
+- [Third-party Resources for Teaching with Jupyter](third_party.md)
 
 ## Drafts
 
